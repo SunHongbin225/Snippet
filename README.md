@@ -20,8 +20,5 @@ You can install the extension from https://chrome.google.com/webstore/detail/run
 
 This code is free to use under the terms of the MIT license.
 
-## Contribution
-
-You are more than welcome to raise any issues [here](https://github.com/hex0cter/js-injector/issues), or create a Pull Request.
 
 
